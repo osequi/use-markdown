@@ -7,6 +7,10 @@ A React hook to load Markdown files.
 - Loads a markdown file then parses with `marked`.
 - Returns the parsed markdown.
 
+## Demo
+
+- https://use-markdown-demo.vercel.app
+
 ## Install
 
 ```sh
@@ -34,14 +38,7 @@ const App = () => {
 
 ## Test
 
-In `/demo` there is a Create React App which loads the hook locally:
-
-```js
-// demo/package.json
-"use-markdown": "../use-markdown-0.1.0.tgz"
-```
-
-To package the hook locally please issue `npm pack` in the hook's root folder.
+In `/demo` there is a Create React App.
 
 ## Changelog
 

@@ -1,6 +1,6 @@
 import React from "react";
 
-import useMarkdown from "use-markdown";
+import useMarkdown from "@osequi/use-markdown";
 import readme from "./README.md";
 
 const App = () => {
