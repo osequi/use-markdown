@@ -2,6 +2,21 @@
 
 A React hook to load Markdown files.
 
+## Features
+
+- Loads a markdown file then parses with `marked`
+- Returns the parsed markdown
+
+## Install
+
+```sh
+# Using yarn
+yarn add @osequi/use-markdown
+
+# or, using npm
+npm i @osequi/use-markdown
+```
+
 ## Usage
 
 ```js
