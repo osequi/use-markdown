@@ -1,5 +1,1 @@
-export {
-  default,
-  useMarkdownPropTypes,
-  useMarkdownDefaultProps
-} from "./useMarkdown";
+export { default } from "./useMarkdown";
