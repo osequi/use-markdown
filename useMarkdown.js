@@ -14,9 +14,7 @@ const useMarkdown = (file) => {
       });
   }, [file]);
 
-  const html = <div dangerouslySetInnerHTML={{ __html: markdown }} />;
-
-  return { markdown: markdown, html: html };
+  return { markdown: markdown };
 };
 
 export default useMarkdown;
