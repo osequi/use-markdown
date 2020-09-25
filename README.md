@@ -4,8 +4,8 @@ A React hook to load Markdown files.
 
 ## Features
 
-- Loads a markdown file then parses with `marked`
-- Returns the parsed markdown
+- Loads a markdown file then parses with `marked`.
+- Returns the parsed markdown.
 
 ## Install
 
@@ -42,3 +42,9 @@ In `/demo` there is a Create React App which loads the hook locally:
 ```
 
 To package the hook locally please issue `npm pack` in the hook's root folder.
+
+## Changelog
+
+Please check [CHANGELOG.md](CHANGELOG.md).
+
+Generated with [Unleash](https://github.com/Netflix/unleash) using [Conventional changelog](https://github.com/conventional-changelog/conventional-changelog) and [Semantic versioning](https://semver.org/).
