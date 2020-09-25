@@ -1,13 +1,15 @@
 {
   "name": "use-markdown",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React hook to load Markdown files",
   "main": "index.js",
   "repository": "git@github.com:osequi/use-markdown.git",
   "author": "Csongor Bartus",
   "license": "MIT",
   "dependencies": {
+    "global": "^4.4.0",
     "marked": "^1.1.1",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "unleash": "^2.0.2"
   }
 }
